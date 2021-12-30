@@ -10,9 +10,15 @@
     "expo": "~44.0.0",
     "expo-splash-screen": "~0.14.0",
     "expo-status-bar": "~1.2.0",
+    "random-string": "^0.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-button": "^3.0.1",
+    "react-native-image-pan-zoom": "^2.1.12",
+    "react-native-modalbox": "^2.0.2",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-vector-icons": "^9.0.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {

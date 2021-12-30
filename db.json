@@ -1,0 +1,10 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title": "84. Connect API : Giả Lập API với Json Server",
+            "body":"_ Video chia sẻ học lập trình ReactJS Redux - Khóa học dành cho người bắt đầu học lập trình web ",
+            "img":"https://res.cloudinary.com/the-roap-trip/image/upload/v1639034370/at2akq4legxlmx9mgzxk.jpg"
+        }
+    ]
+}
